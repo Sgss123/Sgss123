@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I am studying at Guangzhou Information Technology Vocational School
+
+
 <!--
 **Sgss123/Sgss123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
