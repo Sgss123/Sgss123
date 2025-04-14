@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 -->
 
 
-[[!MFJip' s Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff)](https://github.com/Sgss123)
+[![MFJip' s Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff)](https://github.com/Sgss123)
