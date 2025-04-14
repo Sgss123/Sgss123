@@ -12,9 +12,6 @@
 - QQ:2983527658
 - Email:
   - [sgssdis@vip.qq.com](mailto://sgssdis@vip.qq.com)
-  - [2269718601@qq.com](mailto://2269718601@qq.com)
-  - [sgsssvn@gmail.com](mailto://sgsssvn@gmail.com)
-  - [qingqi.hui@foxmail.com](mailto://qingqi.hui@foxmail.com)
 - Bilibili:[531522938](https://space.bilibili.com/531522938)
 
 <!--
@@ -33,4 +30,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![MFJip' s Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff)](https://github.com/Sgss123)
+[![MFJip' s Github stats](https://github-readme-stats.vercel.app/api/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff)]()
+
+[![MFJip' s Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff)](https://github.com/Sgss123)
