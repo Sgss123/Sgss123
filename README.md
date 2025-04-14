@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 [![MFJip' s Github stats](https://github-readme-stats.vercel.app/api/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)](https://space.bilibili.com/531522938)
 
-[![MFJip' s Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=52fa5a,fffc4d,ffc64d,ea6161,0)](https://github.com/Sgss123)
+[![MFJip' s Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgss123&hide_border=true&layout=compact&langs_count=8&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)](https://github.com/Sgss123)
